@@ -1,1 +1,22 @@
-html{font-family: sans-serif}
+html{font-family: sans-serif;
+    background-image: url(https://images4.alphacoders.com/632/632661.jpg) }
+
+   
+
+body{color: rgb(247, 248, 249);
+    display: block;
+    width:50%;
+    margin: 0 auto;
+
+    
+}
+
+    
+
+
+#Primary{display: inline;
+    display: block;
+    width:50%;
+    margin: 0 auto;
+    }
+
